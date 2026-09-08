@@ -1,0 +1,8 @@
+# Herdr runtime and machine-local state
+*.log
+*.sock
+.plugins.lock
+release-notes.json
+session.json
+
+.DS_Store
